@@ -40,6 +40,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
  
 <br>
 ==========================================================================================
+
 ### Network Perimeter & Interface Mapping
 | Network Perimeter & Interface Mapping | Cloud Gateway (SaaS) | Enterprise Network Perimeter | Local Host Loopback | Process Isolation Boundary |
 | --- | --- | --- | --- | --- |
@@ -51,6 +52,7 @@ Network port hardening (mTLS/HTTPS), as well as the masking and low-level disk-e
 
 <br>
 ==========================================================================================
+
 ## Network Integration & Ingestion Pipeline
 Synchronous network interfaces are strictly banned to prevent thermal thread exhaustion. Ingestion operates exclusively via an unbuffered local filesystem queue:
 1. External data brokers stream raw payloads directly into `/var/spool/alexandria/incoming`.
@@ -59,6 +61,7 @@ Synchronous network interfaces are strictly banned to prevent thermal thread exh
 
 <br>
 ==========================================================================================
+
 ### Standards & Architecture Alignment
 | GDPR | Schrems II | DORA | NIS 2 | Zero Trust | EU AI ACT | PostgreSQL | AI-model : Mistral |
 | :---: | :---: | :---: | :---: | :---: | :---: |  :---: | :---: |
