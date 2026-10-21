@@ -30,12 +30,13 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 <br>
 ==========================================================================================
 ## Executive Summary
+
 | The Client's Acute Crisis (Why They Bleed) | The Alexandria Core Solution (What We Deliver) | Regulatory Consequence (Juridical Data Sovereignty) |
 | :--- | :--- | :--- |
 | **Cross-Border Data Transfer (Technical Risk)**<br>The client is operationally dependent on routing sensitive information streams to external datacenters outside EU jurisdiction, violating sovereign mandates. | **Total Segregation (On-Premise)**<br>The entire AI framework is isolated from the open web and executed locally under loopback 127.0.0.1. | **Guaranteed Data Sovereignty (Schrems II)**<br>Eliminates the risk of accidental third-party exposure. Data remains strictly within the organization's physical and regulatory jurisdiction. |
 | **NIS 2 / DORA Liabilities (Legal Risk)**<br>The Board of Directors carries personal liability for data leaks, processing vulnerabilities, and lack of systemic control within shared cloud environments. | **Physical Data Isolation (Air-Gap)**<br>A strict, serial single-session lock in RAM completely prevents cross-session memory contamination through hardware-near process control. | **Process-Level Compliance (Zero Trust)**<br>Enables technical regulatory compliance and verified zero-trust microsegmentation for high-risk environments under current EU security directives. |
-| **Vendor Monopolies (Vendor Lock-in)**<br>The client is bound to complex, vendor-specific ecosystems controlled by massive legacy infrastructure providers like ServiceNow, SAP, Microsoft, or Oracle. | **Platform-Agnostic Architecture**<br>The asynchronous subsystem layer (/usr/local/sbin/) segregates information logic entirely independent of underlying tech stacks via native POSIX structures and immutable JSON schemas.
- | **Architectural Alignment (EU AI Act)**<br>The system completely decouples from locked third-party API frameworks, securing full transparency, data minimization, and auditability over the AI pipeline. |
+| **Vendor Monopolies (Vendor Lock-in)**<br>The client is bound to complex, vendor-specific ecosystems controlled by massive legacy infrastructure providers like ServiceNow, SAP, Microsoft, or Oracle. | **Platform-Agnostic Architecture**<br>The asynchronous subsystem layer (/usr/local/sbin/) segregates information logic entirely independent of underlying tech stacks via native POSIX structures and immutable JSON schemas. | **Architectural Alignment (EU AI Act)**<br>The system completely decouples from locked third-party API frameworks, securing full transparency, data minimization, and auditability over the AI pipeline. |
+
  
 <br>
 ==========================================================================================
