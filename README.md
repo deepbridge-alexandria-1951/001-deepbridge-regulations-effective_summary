@@ -3,7 +3,7 @@
 ### Asynchronous event-driven software middleware powered by local buildtime-distilled AI subsets under strict POSIX architecture constraints.
 <br> The system architecture functions as an isolated, non-blocking decoupling layer between raw network telemetries and stochastic compute boundaries.
 
-<br><br>
+<br>
 ==========================================================================================
 ### NOTICE: ARCHITECTURAL REPORT & VERIFIED PROOF OF CONCEPT (PoC) 
 THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
@@ -13,7 +13,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 **CRITICAL HARDWARE WARNING:**
 <br>This software executes low-level kernel-space, memory, and hardware-near process manipulations. Improper configuration, asymmetric execution loops, or inadequate thermal monitoring WILL RESULT IN INSTANT HARDWARE MUTATION, THERMAL OVER-SATURATION, OR PERMANENT DESTRUCTION OF THE SILICON CHASSIS AND STORAGE MEDIA.
 
-<br><br>
+<br>
 ==========================================================================================
 ## ⚠️ System Latency & Hardware Disclaimer
 
@@ -27,7 +27,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 
 **SUPPORT IS STRICTLY NON-EXISTENT. IF YOU MUTATE YOUR INFRASTRUCTURE, YOU OWN THE BREAK.**
 
-<br><br>
+<br>
 ==========================================================================================
 ## Executive Summary
 | The Client's Acute Crisis (Why They Bleed) | The Alexandria Core Solution (What We Deliver) | Regulatory Consequence (Juridical Data Sovereignty) |
@@ -37,7 +37,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 | **Vendor Monopolies (Vendor Lock-in)**<br>The client is bound to complex, vendor-specific ecosystems controlled by massive legacy infrastructure providers like ServiceNow, SAP, Microsoft, or Oracle. | **Platform-Agnostic Architecture**<br>The asynchronous subsystem layer (/usr/local/sbin/) segregates information logic entirely independent of underlying tech stacks via native POSIX structures and immutable JSON schemas.
  | **Architectural Alignment (EU AI Act)**<br>The system completely decouples from locked third-party API frameworks, securing full transparency, data minimization, and auditability over the AI pipeline. |
  
-<br><br>
+<br>
 ==========================================================================================
 ### Network Perimeter & Interface Mapping
 | Cloud Gateway (SaaS) | Enterprise Network Perimeter | Local Host Loopback | Process Isolation Boundary |
@@ -48,7 +48,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 ### Security Boundary Enforcement 
 Network port hardening (mTLS/HTTPS), as well as the masking and low-level disk-encryption of associated application logs, fall entirely outside the DeepBrigde Alexandria 1951 perimeter. To establish an approved and compliant operational environment, the operator is referred directly to the control frameworks specified in ISO/IEC 27001:2022 Annex A.8 (Access Control) and A.8.15 (Logging).
 
-<br><br>
+<br>
 ==========================================================================================
 ## Network Integration & Ingestion Pipeline
 Synchronous network interfaces are strictly banned to prevent thermal thread exhaustion. Ingestion operates exclusively via an unbuffered local filesystem queue:
@@ -56,7 +56,7 @@ Synchronous network interfaces are strictly banned to prevent thermal thread exh
 2. A background execution daemon (`/usr/local/sbin/ingress.py`) polls the spool directory sequentially (FIFO).
 3. The payload's root key is extracted programmatically and validated via a B-Tree-indexed primary key lookup inside PostgreSQL before compute resources are allocated.
 
-<br><br>
+<br>
 ==========================================================================================
 ### Standards & Architecture Alignment
 | GDPR | Schrems II | DORA | NIS 2 | Zero Trust | EU AI ACT | PostgreSQL | AI-model : Mistral |
@@ -90,7 +90,7 @@ applicable to their specific jurisdiction. The authors accept no liability for a
 regulatory non-compliance or legal breaches resulting from the use or modification 
 of this software.
 
-<br><br>
+<br>
 ==========================================================================================
 ## Why Python 3.12 Standard Library?
 
@@ -106,16 +106,22 @@ Trade-off
 
 This approach sacrifices convenience for clarity. I own every line's behavior.
 
-<br><br>
+<br>
 ==========================================================================================
 ## 🗺️ Complete Repository Map
 
-- 01-deepbridge-alexandria-introduction/
-- 10-deepbridge-cmdb-nis2/
-- 20-deepbridge-hr-regulations/
-- osv...
+- 001-deepbridge-alexandria-effective_summary/
 
 
+<script>
+  function rot13(s) {
+    return s.replace(/[a-zA-Z]/g, function(c) {
+      return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26);
+    });
+  }
+  var encoded = "qva@rknzcyr.pbz"; // rot13-kodad epostadress
+  document.write('<a href="mailto:' + rot13(encoded) + '">Kontakta mig</a>');
+</script>
 
 <!-- 
 METADATA_SIGNATURE_START
