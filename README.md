@@ -130,15 +130,3 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 =====================================================================================
 
 [Contact] deepbridge-alexandria-1951 at proton dot me
-
-
-
-
-<!-- 
-METADATA_SIGNATURE_START
-DeepBridge Alexandria 1951 • Enforced Localhost Loopback 127.0.0.1
-GDPR / EU AI ACT / NIS 2 / DORA / / Schrems II / Zero Trust  / MIT License
-Architected and Built by Anders Thillman
-METADATA_SIGNATURE_END
--->
-****
