@@ -117,7 +117,8 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 
 ## 🗺️ Complete Repository Map for Regulations
 
-- <a href="https://github.com/deepbridge-alexandria-1951/011-deepbridge-cmdb-gdpr">011-deepbridge-cmdb-gdpr/a>
+- <a href="https://github.com/deepbridge-alexandria-1951/011-deepbridge-cmdb-gdpr">011. DeepBridge CMDB & GDPR</a>
+- <a href="https://github.com/deepbridge-alexandria-1951/012-deepbridge-cmdb-eu_ai_act">012. DeepBridge CMDB & EU AI ACT</a>
 
 
 
