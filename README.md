@@ -15,7 +15,8 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 <br>This software executes low-level kernel-space, memory, and hardware-near process manipulations. Improper configuration, asymmetric execution loops, or inadequate thermal monitoring WILL RESULT IN INSTANT HARDWARE MUTATION, THERMAL OVER-SATURATION, OR PERMANENT DESTRUCTION OF THE SILICON CHASSIS AND STORAGE MEDIA.
 
 <br>
-==========================================================================================
+=====================================================================================
+
 ## ⚠️ System Latency & Hardware Disclaimer
 
 **THE AUTHOR ACCEPTS ABSOLUTELY ZERO LIABILITY FOR:** 
@@ -29,7 +30,8 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 **SUPPORT IS STRICTLY NON-EXISTENT. IF YOU MUTATE YOUR INFRASTRUCTURE, YOU OWN THE BREAK.**
 
 <br>
-==========================================================================================
+=====================================================================================
+
 ## Executive Summary
 
 | The Client's Acute Crisis (Why They Bleed) | The Alexandria Core Solution (What We Deliver) | Regulatory Consequence (Juridical Data Sovereignty) |
@@ -40,7 +42,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 
  
 <br>
-==========================================================================================
+=====================================================================================
 
 ### Network Perimeter & Interface Mapping
 | Network Perimeter & Interface Mapping | Cloud Gateway (SaaS) | Enterprise Network Perimeter | Local Host Loopback | Process Isolation Boundary |
@@ -52,7 +54,7 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 Network port hardening (mTLS/HTTPS), as well as the masking and low-level disk-encryption of associated application logs, fall entirely outside the DeepBrigde Alexandria 1951 perimeter. To establish an approved and compliant operational environment, the operator is referred directly to the control frameworks specified in ISO/IEC 27001:2022 Annex A.8 (Access Control) and A.8.15 (Logging).
 
 <br>
-==========================================================================================
+=====================================================================================
 
 ## Network Integration & Ingestion Pipeline
 Synchronous network interfaces are strictly banned to prevent thermal thread exhaustion. Ingestion operates exclusively via an unbuffered local filesystem queue:
@@ -61,7 +63,7 @@ Synchronous network interfaces are strictly banned to prevent thermal thread exh
 3. The payload's root key is extracted programmatically and validated via a B-Tree-indexed primary key lookup inside PostgreSQL before compute resources are allocated.
 
 <br>
-==========================================================================================
+=====================================================================================
 
 ### Standards & Architecture Alignment
 | GDPR | Schrems II | DORA | NIS 2 | Zero Trust | EU AI ACT | PostgreSQL | AI-model : Mistral |
@@ -96,7 +98,7 @@ regulatory non-compliance or legal breaches resulting from the use or modificati
 of this software.
 
 <br>
-==========================================================================================
+=====================================================================================
 
 ## Why Python 3.12 Standard Library?
 
@@ -113,7 +115,7 @@ Trade-off
 This approach sacrifices convenience for clarity. I own every line's behavior.
 
 <br>
-==========================================================================================
+=====================================================================================
 
 ## 🗺️ Complete Repository Map for Regulations
 
