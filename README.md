@@ -122,7 +122,7 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 - <a href="https://github.com/deepbridge-alexandria-1951/013-deepbridge-cmdb-nis2">013. DeepBridge CMDB & NIS 2</a>
 - <a href="https://github.com/deepbridge-alexandria-1951/014-deepbridge-cmdb-dora">014. DeepBridge CMDB & DORA</a>
 - <a href="https://github.com/deepbridge-alexandria-1951/015-deepbridge-cmdb-schrems_ii">015. DeepBridge CMDB & SCHREMS II</a>
-- <a hef="https://github.com/deepbridge-alexandria-1951/016-deepbridge-cmdb-zta">016. DeepBridge CMDB & Zero Trust Archiecture (ZTA)</a>
+- <a href="https://github.com/deepbridge-alexandria-1951/016-deepbridge-cmdb-zta">016. DeepBridge CMDB & Zero Trust Archiecture (ZTA)</a>
 
 
 
