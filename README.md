@@ -5,6 +5,7 @@
 
 <br>
 ==========================================================================================
+
 ### NOTICE: ARCHITECTURAL REPORT & VERIFIED PROOF OF CONCEPT (PoC) 
 THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 <br><br>IT IS NOT PRODUCTION-READY AND IS RUN ENTIRELY AT THE OPERATOR'S OWN RISK.
@@ -96,6 +97,7 @@ of this software.
 
 <br>
 ==========================================================================================
+
 ## Why Python 3.12 Standard Library?
 
 I chose to build core functionality using Python 3.12's standard library rather than third-party frameworks. 
@@ -112,6 +114,7 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 
 <br>
 ==========================================================================================
+
 ## 🗺️ Complete Repository Map
 
 - 001-deepbridge-alexandria-effective_summary/
