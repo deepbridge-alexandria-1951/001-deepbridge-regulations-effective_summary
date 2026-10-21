@@ -115,9 +115,10 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 <br>
 ==========================================================================================
 
-## 🗺️ Complete Repository Map
+## 🗺️ Complete Repository Map for Regulations
 
-- 001-deepbridge-alexandria-effective_summary/
+- <a href="https://github.com/deepbridge-alexandria-1951/011-deepbridge-cmdb-gdpr">011-deepbridge-cmdb-gdpr/a>
+
 
 
 <!-- 
