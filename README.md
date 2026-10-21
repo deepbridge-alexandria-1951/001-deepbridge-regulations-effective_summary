@@ -4,7 +4,7 @@
 <br> The system architecture functions as an isolated, non-blocking decoupling layer between raw network telemetries and stochastic compute boundaries.
 
 <br>
-==========================================================================================
+=====================================================================================
 
 ### NOTICE: ARCHITECTURAL REPORT & VERIFIED PROOF OF CONCEPT (PoC) 
 THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
