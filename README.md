@@ -41,10 +41,10 @@ THIS SOFTWARE IS PROVIDED AS A PURE ACADEMIC LABORATORY PROOF OF CONCEPT.
 <br>
 ==========================================================================================
 ### Network Perimeter & Interface Mapping
-| Cloud Gateway (SaaS) | Enterprise Network Perimeter | Local Host Loopback | Process Isolation Boundary |
-| :--- | :--- | :--- | :--- |
-| Public IP (Blocked) | On-Premises Integration Agent | 127.0.0.1 (Locked) | 127.0.0.1 (PostgreSQL- & Ollama Binding) |
-<br>
+| Network Perimeter & Interface Mapping | Cloud Gateway (SaaS) | Enterprise Network Perimeter | Local Host Loopback | Process Isolation Boundary |
+| --- | --- | --- | --- | --- |
+| Public IP (Blocked) | | On-Premises Integration Agent | 127.0.0.1 (Locked) | 127.0.0.1 (PostgreSQL- & Ollama Binding) |
+
 
 ### Security Boundary Enforcement 
 Network port hardening (mTLS/HTTPS), as well as the masking and low-level disk-encryption of associated application logs, fall entirely outside the DeepBrigde Alexandria 1951 perimeter. To establish an approved and compliant operational environment, the operator is referred directly to the control frameworks specified in ISO/IEC 27001:2022 Annex A.8 (Access Control) and A.8.15 (Logging).
