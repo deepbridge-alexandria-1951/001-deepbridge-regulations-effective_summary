@@ -113,16 +113,6 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 - 001-deepbridge-alexandria-effective_summary/
 
 
-<script>
-  function rot13(s) {
-    return s.replace(/[a-zA-Z]/g, function(c) {
-      return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26);
-    });
-  }
-  var encoded = "qva@rknzcyr.pbz"; // rot13-kodad epostadress
-  document.write('<a href="mailto:' + rot13(encoded) + '">Kontakta mig</a>');
-</script>
-
 <!-- 
 METADATA_SIGNATURE_START
 DeepBridge Alexandria 1951 • Enforced Localhost Loopback 127.0.0.1
