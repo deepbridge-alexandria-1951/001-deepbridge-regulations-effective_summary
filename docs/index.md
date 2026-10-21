@@ -1,6 +1,6 @@
 ---
-title: DeepBridge Regulations: Effective Summary
-description: DeepBridge Alexandria 1951 — On-Premises AI Middleware for EU Regulatory Compliance
+title: "DeepBridge Regulations: Effective Summary"
+description: "DeepBridge Alexandria 1951 — On-Premises AI Middleware for EU Regulatory Compliance"
 ---
 
 # DeepBridge Regulations: Effective Summary
