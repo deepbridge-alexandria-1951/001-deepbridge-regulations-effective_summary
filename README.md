@@ -127,7 +127,7 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 - <a href="https://github.com/deepbridge-alexandria-1951/016-deepbridge-cmdb-zta">016. DeepBridge CMDB & Zero Trust Archiecture (ZTA)</a>
 
 <br>
-==========================================================================================
+=====================================================================================
 
 [Contact](deepbridge-alexandria-1951 at proton dot me)
 
