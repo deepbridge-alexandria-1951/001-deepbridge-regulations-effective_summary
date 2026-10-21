@@ -127,16 +127,9 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 <br>
 ==========================================================================================
 
-## Contact
-<form action="https://formspree.io/f/mzedlkrb" method="POST">
-  <label for="email">E-mail:</label>
-  <input type="email" id="email" name="email" required>
-  
-  <label for="message">Meddelande:</label>
-  <textarea id="message" name="message" required></textarea>
-  
-  <button type="submit">Skicka</button>
-</form>
+[Contact](deepbridge-alexandria-1951 at proton dot me)
+
+
 
 
 <!-- 
