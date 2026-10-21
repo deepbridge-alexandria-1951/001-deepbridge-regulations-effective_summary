@@ -129,7 +129,7 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 <br>
 =====================================================================================
 
-[Contact](deepbridge-alexandria-1951 at proton dot me)
+[Contact] deepbridge-alexandria-1951 at proton dot me
 
 
 
