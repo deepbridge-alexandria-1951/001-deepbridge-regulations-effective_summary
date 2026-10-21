@@ -126,6 +126,7 @@ This approach sacrifices convenience for clarity. I own every line's behavior.
 
 <br>
 ==========================================================================================
+
 ## Contact
 <form action="https://formspree.io/f/mzedlkrb" method="POST">
   <label for="email">E-mail:</label>
